@@ -1,1 +1,4 @@
 GCP-PEM.md
+/keys
+*.csv
+*.py
